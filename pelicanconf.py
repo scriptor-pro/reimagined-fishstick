@@ -1,0 +1,5 @@
+SITENAME = 'Reimagined Fishstick'
+SITEURL = ''
+PATH = 'content'
+TIMEZONE = 'Europe/Paris'
+DEFAULT_LANG = 'fr'
